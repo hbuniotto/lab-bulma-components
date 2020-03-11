@@ -5,3 +5,5 @@ const App = () => {
 };
 
 export default App;
+
+import 'bulma/css/bulma.css'; // imports Bulma CSS into all components we'll use
